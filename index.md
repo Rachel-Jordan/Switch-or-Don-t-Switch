@@ -1,2 +1,2 @@
-Welcome to the Switch-or-Don-t-Switch wiki!
-**Introduction**
+###Welcome to Switch-or-Don-t-Switch!###
+##Introduction##
