@@ -4,6 +4,7 @@ This guide will show you have to install Switch or Don’t Switch. It will give 
 ## How to install ##
 1. Click on the link at the top of the page.
 ![](/2020-04-12 (2).png)
+Format: ![Alt Text](url)
 1. Then download the files GameShow.java and PlayGameShow.java 
 1. Finally run the program in something like eclise or linux. 
 ## Game overview/Current State ##
